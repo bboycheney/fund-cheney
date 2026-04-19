@@ -1,9 +1,9 @@
 streamlit==1.38.0
-pandas>=2.2.0
-requests>=2.32.0
-plotly>=5.22.0
-akshare>=1.16.73  # 升级到支持 Python 3.11+ 的版本
-openai>=1.35.0
-supabase>=2.5.0
-pillow>=10.4.0
-rich>=13.7.1,<14.0  # 固定和 Streamlit 兼容的版本
+pandas==2.2.2
+requests==2.32.3
+plotly==5.22.0
+akshare==1.16.74
+openai==1.37.0
+supabase==2.5.1
+pillow==10.4.0
+rich==13.7.1
