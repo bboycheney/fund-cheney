@@ -1,9 +1,8 @@
 streamlit==1.38.0
-pandas==2.2.3 --only-binary :all:
 requests==2.32.3
 plotly==5.22.0
-akshare==1.16.74
+pandas==2.2.2
+pillow==10.4.0
 openai==1.37.0
 supabase==2.5.1
-pillow==10.4.0
-rich==13.7.1
+python-dotenv==1.0.1
