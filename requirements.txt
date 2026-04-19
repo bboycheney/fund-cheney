@@ -1,7 +1,6 @@
-streamlit>=1.36.0
-pandas>=2.2.0
-requests>=2.32.0
-pillow>=10.0.0
-akshare>=1.18.0
-openai>=1.30.0
-supabase>=2.0.0,<3.0.0
+streamlit
+pandas
+akshare
+openai
+pillow
+supabase
