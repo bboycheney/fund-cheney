@@ -1,6 +1,11 @@
-streamlit
-pandas
-akshare
-openai
-pillow
-supabase
+streamlit>=1.30.0
+pandas>=2.0.0
+requests>=2.31.0
+plotly>=5.18.0
+akshare>=1.10.0
+openai>=1.0.0
+supabase>=2024.03.0
+loguru>=0.7.0
+tenacity>=8.2.0
+pillow>=10.0.0
+python-dotenv>=1.0.0
